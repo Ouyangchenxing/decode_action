@@ -4,7 +4,7 @@
 微信小程序-霸王茶姬
 只有签到得积分, 每天跑一两次就行
 积分可以换券
-
+0
 授权注册后, 捉 webapi.qmai.cn 域名请求头里面的 Qm-User-Token, 填到变量 bwcjCookie 里面
 多账号换行或@或&隔开
 export bwcjCookie="H3is33xad2xxxxxxxxxxxxxxxxxx"
